@@ -1,0 +1,14 @@
+{
+  "name": "blockchain_project",
+  "version": "1.0.0",
+  "description": "Created a Dapp as part of blockchain development course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "github.com/solo11",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3"
+  }
+}
